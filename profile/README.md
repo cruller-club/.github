@@ -1,3 +1,3 @@
 # cruller.club
 
-Hello! Welcome to `cruller.club`! It's a landing spot for some of my random ideas. Especially the ones that might require writing a bit of code.
+Hello! Hey! What's up? `cruller.club` is a savvy design and dev consultancy rooted in the principles of open-source software, community development, and tasty pastries. Doesn't that sound quirky?!
